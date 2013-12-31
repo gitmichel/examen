@@ -1,0 +1,42 @@
+#footer {
+	color: #CCCCCC;
+	background-color: #333333;
+}
+
+/*********************
+	 Marketing Area
+**********************/
+.marketing {
+  color:#5A5A5A;
+}
+
+.marketing h1 {
+  font-size:50px;
+  font-weight:200;
+  letter-spacing:-1px;
+  line-height:1;
+  margin:10px 0 10px;
+}
+
+.marketing h2 {
+  font-weight:200;
+  margin-bottom:5px;
+}
+
+.marketing .marketing-byline {
+  color:#999999;
+  font-size:20px;
+  font-weight:300;
+  line-height:1.25;
+  margin-bottom:40px;
+}
+
+.marketing p {
+  font-size:16px;
+  line-height:1.5;
+}
+
+.marketing img {
+	margin: 5px auto;
+}
+
